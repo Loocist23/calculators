@@ -1,0 +1,3 @@
+{
+  "services": ["frontend", "api-js", "api-python", "api-java"]
+}

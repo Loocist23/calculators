@@ -1,0 +1,10 @@
+# Configuration pour détecter les submodules
+
+# Tous les dossiers "modules/*" sont traités comme des submodules
+modules/ * submodule
+
+# Si vous avez d'autres sous-répertoires spécifiques, ajoutez-les ici
+# examples/ * submodule
+
+# Pour désactiver le traitement submodule pour un fichier spécifique, utilisez :
+# modules/README.txt export

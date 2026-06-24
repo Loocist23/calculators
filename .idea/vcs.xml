@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator-api-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator-api-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator-api-python" vcs="Git" />
+  </component>
+</project>
