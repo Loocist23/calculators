@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/calculator-api-java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/calculator-api-js" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/calculator-api-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculators" vcs="Git" />
   </component>
 </project>

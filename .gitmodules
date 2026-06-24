@@ -1,0 +1,11 @@
+[submodule "calculator-api-js"]
+	path = calculator-api-js
+	url = https://github.com/Loocist23/calculator-api-js
+
+[submodule "calculator-api-java"]
+	path = calculator-api-java
+	url = https://github.com/Koruji/calculator-api-java
+
+[submodule "calculator-api-python"]
+	path = calculator-api-python
+	url = https://github.com/Loocist23/calculator-api-python
