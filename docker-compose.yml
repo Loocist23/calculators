@@ -10,7 +10,7 @@ services:
   # --- SERVICES FRONTEND ---
   frontend:
     build:
-      context: Calculator
+      context: calculator-front
       dockerfile: Dockerfile
     container_name: calculator-frontend
     ports:

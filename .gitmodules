@@ -1,11 +1,14 @@
 [submodule "calculator-api-js"]
 	path = calculator-api-js
-	url = https://github.com/Loocist23/calculator-api-js
+	url = https://github.com/Loocist23/calculator-api-js.git
 
 [submodule "calculator-api-java"]
 	path = calculator-api-java
-	url = https://github.com/Koruji/calculator-api-java
+	url = https://github.com/Koruji/calculator-api-java.git
 
 [submodule "calculator-api-python"]
 	path = calculator-api-python
-	url = https://github.com/Loocist23/calculator-api-python
+	url = https://github.com/Loocist23/calculator-api-python.git
+[submodule "calculator-front"]
+	path = calculator-front
+	url = https://github.com/Loocist23/calculator-front.git
